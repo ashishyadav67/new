@@ -1,0 +1,41 @@
+﻿@page "/"
+@using System;
+@using System.Data;
+@using Microsoft.Data.SqlClient;
+@using ProjectOne.Models;
+@using ProjectOne.Services;
+@using ProjectOne.Shared;
+@inject DbConn db;
+<PageTitle>Index</PageTitle>
+
+<h1>Login index</h1>
+<div>
+    <label>User name : </label>
+    <input @bind="lt.Username"/><br />
+    <label>Password</label>
+    <input @bind="lt.Password"/><br />
+    <button @onclick="log">Logint</button><button>Register</button><br />
+    <label>@lbl1</label>
+
+</div>
+@code{
+    logtable lt = new();
+    string lbl1 ;
+    public string query;
+    public void log()
+    {
+        query = "select * from logtable where username='" + lt.Username + "' and password='" + lt.Password + "'";
+        //lbl1 = db.GetDataReader(query);
+        DataTable dt = db.GetDataTable(query);
+        if(dt.Rows.Count > 0)
+        {
+            lbl1 = "Success";
+        }
+        else
+        {
+            lbl1 = "fail";
+        }
+    }
+}
+
+
