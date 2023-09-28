@@ -22,6 +22,7 @@
     logtable lt = new();
     string lbl1 ;
     public string query;
+    public int MyProperty { get; set; }
     public void log()
     {
         query = "select * from logtable where username='" + lt.Username + "' and password='" + lt.Password + "'";
