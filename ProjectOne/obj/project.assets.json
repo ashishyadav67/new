@@ -3184,11 +3184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ProjectOne\\ProjectOne.csproj",
+      "projectUniqueName": "D:\\repo\\ProjectOne\\ProjectOne.csproj",
       "projectName": "ProjectOne",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ProjectOne\\ProjectOne.csproj",
+      "projectPath": "D:\\repo\\ProjectOne\\ProjectOne.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ProjectOne\\obj\\",
+      "outputPath": "D:\\repo\\ProjectOne\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

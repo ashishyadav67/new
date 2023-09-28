@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectOne
 build_property.RootNamespace = ProjectOne
-build_property.ProjectDir = C:\Users\user\source\repos\ProjectOne\
+build_property.ProjectDir = D:\repo\ProjectOne\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\source\repos\ProjectOne
+build_property.MSBuildProjectDirectory = D:\repo\ProjectOne
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/source/repos/ProjectOne/App.razor]
+[D:/repo/ProjectOne/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/ProjectOne/Pages/Login.razor]
+[D:/repo/ProjectOne/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/ProjectOne/Shared/SurveyPrompt.razor]
+[D:/repo/ProjectOne/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/ProjectOne/_Imports.razor]
+[D:/repo/ProjectOne/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/ProjectOne/Shared/MainLayout.razor]
+[D:/repo/ProjectOne/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-gjic765nxt
 
-[C:/Users/user/source/repos/ProjectOne/Pages/Error.cshtml]
+[D:/repo/ProjectOne/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/source/repos/ProjectOne/Pages/_Host.cshtml]
+[D:/repo/ProjectOne/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

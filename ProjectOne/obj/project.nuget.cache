@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OPNXVb53Sy4QIzXBb/t6IbOX7N20GU4a2dIKTbtpfslecoczqbPADbQ9b2et4RTgAOcwGjjqCRJdi3w6dUIWHg==",
+  "dgSpecHash": "eauBrhNY6muaAcpZYWj8WVM00OUP2WZheVbX5AQlkWSIwJTFmXJ+nWYU62FQTLK/EUKZyACIW7Y/ErLqizrM7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ProjectOne\\ProjectOne.csproj",
+  "projectFilePath": "D:\\repo\\ProjectOne\\ProjectOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
